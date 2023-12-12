@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Kalnia&display=swap');
+
+
+body {
+  background-color: rgba(29, 29, 29, 0.95);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Afacad', sans-serif;
+}
